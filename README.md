@@ -17,14 +17,6 @@ bun create alexsteinh/svelte [<destination>]
 
 Bun will automatically install all dependencies, so you can get started as quickly as possible.
 
-## Development
-
-```bash
-bun dev
-```
-
-Powered by Vite.
-
 ## Building
 
 To create a production version of your app:
