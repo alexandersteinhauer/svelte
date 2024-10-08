@@ -2,7 +2,7 @@
 
 A SvelteKit template to get started - includes:
 
-- [SvelteKit](https://kit.svelte.dev/docs/introduction) with JavaScript
+- [SvelteKit](https://kit.svelte.dev/docs/introduction) with TypeScript
 - [Tailwind CSS](https://tailwindcss.com)
 - [Prettier](https://prettier.io/docs), including Tailwind and Svelte rules.
 - [shadcn-svelte](https://www.shadcn-svelte.com/) for good looking components
