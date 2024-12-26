@@ -1,4 +1,4 @@
-# alexsteinh/svelte
+# alexandersteinhauer/svelte
 
 A SvelteKit template to get started - includes:
 
@@ -12,7 +12,7 @@ A SvelteKit template to get started - includes:
 ## Creating a project
 
 ```bash
-bun create alexsteinh/svelte [<destination>]
+bun create alexandersteinhauer/svelte [<destination>]
 ```
 
 Bun will automatically install all dependencies, so you can get started as quickly as possible.
